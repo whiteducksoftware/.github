@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="20%" align="right" alt="white duck Logo" src="https://raw.githubusercontent.com/whiteducksoftware/.github/main/profile/logo/wd-dark.png">
+<img width="20%" align="right" alt="white duck Logo" src="logo/wd-dark.png">
 
 Your partner for the Microsoft Azure Cloud. Application Development, Cloud Infrastructure, DevOps and IoT.
 
