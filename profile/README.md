@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="20%" align="right" alt="white duck Logo" src="logo/wd-dark.png">
+<img width="20%" align="right" alt="white duck Logo" src="https://whiteduck.de/wp-content/uploads/wd-dark.png">
 
 Your partner for the Microsoft Azure Cloud. Application Development, Cloud Infrastructure, DevOps and IoT.
 
